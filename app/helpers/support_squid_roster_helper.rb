@@ -1,0 +1,2 @@
+module SupportSquidRosterHelper
+end
